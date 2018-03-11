@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 紫系流月
-subtitle: Blog
+subtitle: Devops Development
 description: >- # this means to ignore newlines until "baseurl:"
   Devops Development.
 author: 紫系流月
